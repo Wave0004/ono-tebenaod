@@ -80,7 +80,8 @@
     letter-spacing: 0.2rem;
   }
   .aligned-text_center {
-    padding: 0 287px 20px;
+    text-align: center;
+    padding: 0 287px 20px 230px;
   }
   .aligned-text_right {
     text-align: right;
